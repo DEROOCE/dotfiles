@@ -1,0 +1,2 @@
+# Aliases
+source ~/.shell/aliases.sh
