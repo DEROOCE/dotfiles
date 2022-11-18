@@ -1,9 +1,12 @@
 My personal setting on LunarVim.
 
-* Plugins
-* snippets
+- Plugins
+- snippets
 
+- LSP pluggin
+  - `:LspInstall`: `i` to install
+    - `pylsp`
 
-* LSP pluggin
-  * `:LspInstall`: `i` to install
-    * `pylsp`
+Reference:
+
+1. https://github.com/josean-dev/dev-environment-files
